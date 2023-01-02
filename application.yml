@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CongifDefault
+    name: UserService_ConfigServer
 
 eureka:
   instance:
